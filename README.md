@@ -1,5 +1,5 @@
 # oibsip_task1-java-intern
-Project name : Online Servation System 
+Project name : Online Reservation System 
 Programming launguage used : Java, SQl , HTML, CSS , JS and AJAX 
 technology used : JSP, Servlet and JDBC
 IDE : Eclipse 
