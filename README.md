@@ -10,4 +10,4 @@ IDE : Eclipse
 
 Server : Apache Tomcat 
 
-Description : Ralway reservation system, user can register, login,  book ticket, view ticket and cancel ticket.
+Description : Railway reservation system, user can register, login,  book ticket, view ticket and cancel ticket.
